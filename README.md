@@ -7,6 +7,8 @@ There are two folders. Folder "demo" contains demonstration video for our websit
 The main programming language is Java. We utilize maven as tools and use spring boot to construct the controller, service and dao layers.
 Additionaly, mybatis for dataset and thymeleaf to design the http page. 
 
+Following are two picture demos of our project.
+
 ![image](https://github.com/Arella1101/EE312_canteen-food-remarks-platform/website_interface_images/interface_img1.png 
 )
 ![image](https://github.com/Arella1101/EE312_canteen-food-remarks-platform/website_interface_images/interface_img2.png 
