@@ -9,7 +9,7 @@ Additionaly, mybatis for dataset and thymeleaf to design the http page.
 
 Following are two picture demos of our project.
 
-![image](https://github.com/Arella1101/EE312_canteen-food-remarks-platform/website_interface_images/interface_img1.png)
-![image](https://github.com/Arella1101/EE312_canteen-food-remarks-platform/website_interface_images/interface_img2.png)
+![image](https://github.com/Arella1101/EE312_canteen-food-remarks-platform/raw/master/website_interface_images/interface_img1.png)
+![image](https://github.com/Arella1101/EE312_canteen-food-remarks-platform/raw/master/website_interface_images/interface_img2.png)
 
 
